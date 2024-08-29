@@ -490,7 +490,7 @@ Real-Time Messaging: Communicate instantly with your team.
 3. Include the Value Proposition
   - Why It Matters: After the features, add a brief sentence that explains the overall benefit or value the product provides to the user.
 Example: "This platform helps teams work more efficiently by centralizing all essential tools in one place, reducing the need for multiple apps."
-4. Optional: Mention the Target Audience
+4. Mention the Target Audience
   - Who Benefits: Briefly mention who the product is designed for, which helps tailor the message to the right audience.
 Example: "Perfect for remote teams, project managers, and startups."
 Example of a Succinct Description:
